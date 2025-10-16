@@ -1,2 +1,2 @@
-# Web-Development
-Simple webpage showcasing HTML,CSS and js
+# Web-Development :Personal portfolio
+Simple webpage using HTML,css and practiced simple animations using css
